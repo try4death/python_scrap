@@ -1,0 +1,6 @@
+accounts.google.com
+drive.google.com
+mail.google.com
+news.google.com
+play.google.com
+www.google.com
